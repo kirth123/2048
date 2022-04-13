@@ -1,0 +1,22 @@
+.tile {
+	-fx-arc-height: 50;
+	-fx-arc-width: 50;
+	-fx-stroke-width: 10;
+	-fx-stroke: white;
+}
+
+.block {
+	-fx-padding: 10;
+}
+
+.number {
+	-fx-font-family: Century;
+	-fx-font-size: 20;
+}
+
+.banner {
+    -fx-font-family: Century;
+    -fx-font-size: 48;
+    -fx-fill: red;
+}
+
